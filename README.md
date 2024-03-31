@@ -15,7 +15,7 @@ We used the "Construction Site Safety Image Dataset" available on Roboflow via K
 
 ## Data Format
 
-# Models
+# Models and Result
 We tried out various method for this object detection task. 
 
 1. Pre-trained Models 
